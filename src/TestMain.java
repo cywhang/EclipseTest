@@ -3,7 +3,7 @@ public class TestMain {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Main ÇÁ·Î±×·¥ ½ÇÇàÁß..");
+		System.out.println("ì°¨ë…•ì´ ì´ë©”ì¼ í…ŒëŸ¬ë²”");
 		
 	}
 
