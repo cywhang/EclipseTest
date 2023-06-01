@@ -1,6 +1,6 @@
 
 public class Join {
 	public void join() {
-		System.out.println("Âù¿µÀÌÀÇ Æ¼¸ó ´ß°¡½¿»ì");
+		System.out.println("ì°¨ëƒ¥ì´ì˜ ë‹­ì°Œì°Œì‚´");
 	}
 }
