@@ -9,7 +9,7 @@ public class Join {
 	}
 
 	public void join2() {
-		System.out.println("차냥이의 닭zzizzi살");
+		System.out.println("차냥이의 닭zzizzi살!");
 	}
 
 }
