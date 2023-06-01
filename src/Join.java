@@ -1,6 +1,6 @@
 
 public class Join {
 	public void join() {
-		System.out.println("찬영이의 티몬");
+		System.out.println("찬영이의 티몬 닭가슴살");
 	}
 }
